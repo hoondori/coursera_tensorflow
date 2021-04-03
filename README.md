@@ -1,2 +1,2 @@
 # coursera_tensorflow
-useful class material worthy of remembering 
+useful class material worthy of remembering  2
